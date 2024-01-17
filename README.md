@@ -1,5 +1,5 @@
 # 🕹 Pokédex
-> Desafio DIO - Criando um Jogo de cartas do Yu-Gi-Oh no estilo JokenPo utilizando JavaScript/CSS
+> Criando um Jogo de cartas do Yu-Gi-Oh no estilo JokenPo utilizando JavaScript/CSS
 
 
 ## 📋 Índice
